@@ -411,6 +411,15 @@
   .start-page{
     margin-top: 90px;
   }
+  .about{
+    margin-top: 90px;
+  }
+  .portfolio{
+    margin-top: 100px;
+  }
+  .contact{
+    margin-top: 100px;
+  }
   .all-logo,.html-logo,.css-logo,.git-logo{
     display: flex;
     flex-wrap: wrap;
@@ -445,6 +454,15 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+  }
+  .portfolio{
+    margin-top: 100px;
+  }
+  .about{
+    margin-top: 100px;
+  }
+  .contact{
+    margin-top: 100px;
   }
   .all-logo,.html-logo,.css-logo,.git-logo{
     display: flex;
